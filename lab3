@@ -1,0 +1,26 @@
+#Fuctions
+#Exercise1
+def my_function():
+  print("Hello from a function")
+
+#Exercise2
+def my_function():
+  print("Hello from a function")
+
+my_function()
+
+#Exercise3
+#Exercise4
+#Exercise5
+#Exercise6
+#Lambda
+#Exercise1
+#Classes
+#Exercise1
+#Exercise2
+#Exercise3
+#Exercise4
+#Inheritance
+#Exercise1
+#Exercise2
+
