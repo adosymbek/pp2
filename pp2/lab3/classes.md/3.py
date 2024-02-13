@@ -1,9 +1,9 @@
 #Rectangle
-import ex2
+import 2
 
-class Rectangle(ex2.Shape):
+class Rectangle(2.Shape):
     def __init__(self, l, w):
-        ex2.Shape.__init__(self)
+        2.Shape.__init__(self)
         self.l = l
         self.w = w
     def area(self):
